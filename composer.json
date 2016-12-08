@@ -8,8 +8,7 @@
         }
     ],
     "autoload": {
-        "classmap": [
-            "simple-html-dom.php"
-        ]
+        "classmap": ["simple_html_dom.php"],
+		"files": ["simple_html_dom.php"]
     }
 }
