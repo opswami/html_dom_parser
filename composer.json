@@ -1,0 +1,15 @@
+{
+    "name": "simple-html-dom/simple-html-dom",
+    "description": "A copy of the PHP Simple HTML DOM Parser project.",
+    "authors": [
+        {
+            "name": "Om Prakash Swami",
+            "email": "opswami1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "simple-html-dom.php"
+        ]
+    }
+}
